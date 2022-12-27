@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Recruit 0 1672135703259</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_832423_recruit_0_1672135703259</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">a5efc2e0f90211108c8bd16244dfe716</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:08:24</sys_created_on>
+        <sys_id>bd9b481d87c0611054914046cebb35f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Recruit 0 1672135703259</sys_name>
+        <sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope>
+        <sys_update_name>sys_db_object_bd9b481d87c0611054914046cebb35f1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-27 10:08:24</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Recruitment details">c787cc1987c0611054914046cebb358f</application>
+        <file_path/>
+        <instance_id>db5bd2921b91091032182f8dee4bcbb0</instance_id>
+        <instance_name>dev122606</instance_name>
+        <name>sys_db_object_bd9b481d87c0611054914046cebb35f1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Recruit 0 1672135703259</label><live_feed_enabled>false</live_feed_enabled><name>x_832423_recruit_0_1672135703259</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">a5efc2e0f90211108c8bd16244dfe716</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-27 10:08:24</sys_created_on><sys_id>bd9b481d87c0611054914046cebb35f1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Recruit 0 1672135703259</sys_name><sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package><sys_policy/><sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope><sys_update_name>sys_db_object_bd9b481d87c0611054914046cebb35f1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-27 10:08:24</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>-862556964</payload_hash>
+        <record_name>Recruit 0 1672135703259</record_name>
+        <reverted_from/>
+        <source>df87cc1987c0611054914046cebb3591</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:08:25</sys_created_on>
+        <sys_id>ca9b881d87c0611054914046cebb35ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>185530e04810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-27 10:08:25</sys_updated_on>
+        <type>Table</type>
+        <update_guid>469b881d22c061105e989e258fc682ab</update_guid>
+        <update_guid_history>469b881d22c061105e989e258fc682ab:-862556964</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:11:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>503b338fd99a4ee8adb4dc128a4b8390</sys_id>
+        <sys_metadata>bd9b481d87c0611054914046cebb35f1</sys_metadata>
+        <sys_name>Recruit 0 1672135703259</sys_name>
+        <sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope>
+        <sys_scope_delete display_value="">23fcb9bbf1324058854f7f7c2cb7ca91</sys_scope_delete>
+        <sys_update_name>sys_db_object_bd9b481d87c0611054914046cebb35f1</sys_update_name>
+        <sys_update_version display_value="sys_db_object_bd9b481d87c0611054914046cebb35f1">ca9b881d87c0611054914046cebb35ab</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

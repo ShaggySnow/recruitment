@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Recruitment details Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:13:46</sys_created_on>
+        <sys_id>4cdc409dcac0611029b09ee1bd9c49e2</sys_id>
+        <sys_name>Recruitment details Config</sys_name>
+        <sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope>
+        <sys_update_name>sys_ux_app_config_4cdc409dcac0611029b09ee1bd9c49e2</sys_update_name>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=4cdc409dcac0611029b09ee1bd9c49e2"/>
+</record_update>

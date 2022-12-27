@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <dashboard display_value="Recruitment details">c8dc409d43c06110ecbf3a3c3ded84dc</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:13:47</sys_created_on>
+        <sys_id>84dc409da3c061101ca482bc451976e0</sys_id>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope>
+        <sys_update_name>par_dashboard_tab_84dc409da3c061101ca482bc451976e0</sys_update_name>
+    </par_dashboard_tab>
+</record_update>

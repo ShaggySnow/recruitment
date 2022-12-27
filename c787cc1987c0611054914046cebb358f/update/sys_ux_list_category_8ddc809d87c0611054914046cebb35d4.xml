@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list_category">
+    <sys_ux_list_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="Recruitment details_menu_config">8ddc809d87c0611054914046cebb35d2</configuration>
+        <description/>
+        <order>100</order>
+        <sys_class_name>sys_ux_list_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:13:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8ddc809d87c0611054914046cebb35d4</sys_id>
+        <sys_name>Recruit STG</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope>
+        <sys_update_name>sys_ux_list_category_8ddc809d87c0611054914046cebb35d4</sys_update_name>
+        <title>Recruit STG</title>
+    </sys_ux_list_category>
+</record_update>

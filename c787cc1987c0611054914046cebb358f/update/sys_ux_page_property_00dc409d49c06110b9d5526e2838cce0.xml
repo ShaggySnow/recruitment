@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Recruitment details">ccdc409dbbc06110d4a64310e0cc47dc</page>
+        <required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New Recruit STG",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-27 10:13:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>00dc409d49c06110b9d5526e2838cce0</sys_id>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Recruitment details" source="x_832423_recruit_0">c787cc1987c0611054914046cebb358f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recruitment details">c787cc1987c0611054914046cebb358f</sys_scope>
+        <sys_update_name>sys_ux_page_property_00dc409d49c06110b9d5526e2838cce0</sys_update_name>
+        <type>json</type>
+        <unique_name>x_832423_recruit_0.ccdc409dbbc06110d4a64310e0cc47dc.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Recruit STG"},"routeInfo":{"route":"record","fields":{"table":"x_832423_recruit_0_recruit_stg","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_832423_recruit_0_recruit_stg","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=00dc409d49c06110b9d5526e2838cce0"/>
+</record_update>
